@@ -1,9 +1,5 @@
 #include <stdio.h>
-/*this is my 
- * fucken header
- * come on daddy
- */
-int main (void)
+int main(void)
 {
 	int num;
 
